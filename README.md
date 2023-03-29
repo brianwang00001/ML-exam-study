@@ -9,7 +9,7 @@ Just for me to prepare for the final of my Machine Learning course.
 ![alt text](EM_result.png)
 
 ## Kernel regression 
-![alt text](regression_result.png)
+![alt text](kernel_regression_result.png)
 
 ## Support vector machine with Gaussian kenrel
 ![alt text](SVM_result.png)
